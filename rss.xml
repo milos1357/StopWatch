@@ -2,16 +2,16 @@
 <rss version="2.0">
 <chanel>
 	<title>Iz ponude izdvajamo</title>
-	<link>file:///C:/Users/Milica/Desktop/sajtovi/WebDizajnMarija/index.html</link>
+	<link>https://milos1357.github.io/StopWatch/index.html</link>
 	<description>RSS za vesti</description>
 	<item>
 		<title>Najnoviji proizvodi!</title>
-		<link>file:///C:/Users/Milica/Desktop/sajtovi/WebDizajnMarija/index.html</link>
+		<link>https://milos1357.github.io/StopWatch/index.html</link>
 		<description>Posetite našu radnju, očekuju Vas novi proizvodi!</description>
 	</item>	
 	<item>
 		<title>Akcija!</title>
-		<link>file:///C:/Users/Milica/Desktop/sajtovi/WebDizajnMarija/index.html</link>
+		<link>https://milos1357.github.io/StopWatch/index.html</link>
 		<description>Akcija povodom crnog petka!</description>
 	</item>	
 </chanel>
